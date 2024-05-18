@@ -24,7 +24,7 @@ The script also includes sample data for each table, providing a realistic repre
 To use this SQL script, execute it against your preferred SQL database management system. Make sure to adjust any table or column names as needed to fit your specific use case.
 
 ## Contributors
-- Rujina Akhtar (222-125-227)
+- Rujina Akhther (222-125-227)
 - Sumaiya Begum (222-115-216)
 
 ## Queries
